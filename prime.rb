@@ -7,7 +7,4 @@ while n<num
   if num%n==0
     false
   end
-else
-  true
-  end
 end
