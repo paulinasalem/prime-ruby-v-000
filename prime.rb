@@ -3,8 +3,10 @@ def prime?(num)
     false
   end
     n=2
-elsif num%(2...100)==0
-  false
+while n<num
+  if num%n==0
+    false
+  end
 else
   true
   end
