@@ -9,4 +9,5 @@ def prime?(num)
     end
     n+=1
   end
+  true
 end
